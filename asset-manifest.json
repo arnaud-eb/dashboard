@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.79ba2640.chunk.css",
+    "main.js": "/dashboard/static/js/main.2836c5d1.chunk.js",
+    "main.js.map": "/dashboard/static/js/main.2836c5d1.chunk.js.map",
+    "runtime-main.js": "/dashboard/static/js/runtime-main.69c30187.js",
+    "runtime-main.js.map": "/dashboard/static/js/runtime-main.69c30187.js.map",
+    "static/js/2.3c2f1fe1.chunk.js": "/dashboard/static/js/2.3c2f1fe1.chunk.js",
+    "static/js/2.3c2f1fe1.chunk.js.map": "/dashboard/static/js/2.3c2f1fe1.chunk.js.map",
+    "index.html": "/dashboard/index.html",
+    "precache-manifest.019034ac8fe93850935c2bd6a5d4cfee.js": "/dashboard/precache-manifest.019034ac8fe93850935c2bd6a5d4cfee.js",
+    "service-worker.js": "/dashboard/service-worker.js",
+    "static/css/main.79ba2640.chunk.css.map": "/dashboard/static/css/main.79ba2640.chunk.css.map",
+    "static/js/2.3c2f1fe1.chunk.js.LICENSE.txt": "/dashboard/static/js/2.3c2f1fe1.chunk.js.LICENSE.txt",
+    "static/media/login-img.svg": "/dashboard/static/media/login-img.20a90984.svg",
+    "static/media/preloader.gif": "/dashboard/static/media/preloader.c114fda3.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69c30187.js",
+    "static/js/2.3c2f1fe1.chunk.js",
+    "static/css/main.79ba2640.chunk.css",
+    "static/js/main.2836c5d1.chunk.js"
+  ]
+}
