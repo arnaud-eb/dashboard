@@ -5,7 +5,7 @@ import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 function App() {
   return (
     <AuthWrapper>
-      <Router>
+      <Router basename="/dashboard">
         <Switch>
           <PrivateRoute exact path="/">
             <Dashboard />
